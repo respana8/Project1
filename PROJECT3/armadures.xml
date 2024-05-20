@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<armadures>
+    <armadura>
+        <nom>Armadura Berserker</nom>
+        <puntsDeVida>200</puntsDeVida>
+    </armadura>
+    <armadura>
+        <nom>Túnica de Minas Tirith</nom>
+        <puntsDeVida>10</puntsDeVida>
+        <puntsDeMana>200</puntsDeMana>
+    </armadura>
+</armadures>
+

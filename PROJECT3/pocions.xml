@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pocions>
+    <pocio>
+        <nom>Pocio de vida</nom>
+        <puntsDeVida>80</puntsDeVida>
+        <puntsDeMana>0</puntsDeMana>
+    </pocio>
+    <pocio>
+        <nom>Pocio de mana</nom>
+        <puntsDeVida>0</puntsDeVida>
+        <puntsDeMana>80</puntsDeMana>
+    </pocio>
+</pocions>
+

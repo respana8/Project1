@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<armes>
+    <arma>
+        <nom>Vareta de mac</nom>
+        <puntsDeMana>-100</puntsDeMana>
+        <danys>70</danys>
+    </arma>
+    <arma>
+        <nom>Espasa afilada</nom>
+        <puntsDeMana>-10</puntsDeMana>
+        <danys>30</danys>
+    </arma>
+</armes>
+
